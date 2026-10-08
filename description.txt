@@ -1,0 +1,1 @@
+Smart door monitor is an ESP32 learning project using normally closed magnetic reed switch. It measures door open and publishes validated telemetry over Wi-Fi and TLS MQTT for property monitoring learners. It includes documented wiring, provisioning, simulation tests, and security guidance. Includes wiring, calibration, source code, field guidance.
